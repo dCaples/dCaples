@@ -4,7 +4,7 @@
 
 ## Highlights
 
-- **Lead research, AGI, Inc.** Trained a computer-use agent ranked **#1 on OSWorld & AndroidWorld**; first **superhuman** on both. [[OSWorld benchmark]](https://os-world.github.io/#benchmark) · [[AndroidWorld leaderboard]](https://docs.google.com/spreadsheets/d/1cchzP9dlTZ3WXQTfYNhh3avxoLipqHN75v1Tb86uhHo/edit?gid=0#gid=0)
+- **Leading research, AGI, Inc.** Trained a computer-use agent ranked **#1 on OSWorld & AndroidWorld**; first **superhuman** on both. [[OSWorld benchmark]](https://os-world.github.io/#benchmark) · [[AndroidWorld leaderboard]](https://docs.google.com/spreadsheets/d/1cchzP9dlTZ3WXQTfYNhh3avxoLipqHN75v1Tb86uhHo/edit?gid=0#gid=0)
 
 - **Created & launched [RealEvals.xyz](https://realevals.xyz).** Realistic mini-internet for training & evaluating web agents (benchmark + RL envs).
 
