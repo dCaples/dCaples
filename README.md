@@ -6,7 +6,7 @@
 
 - **MATS — Mechanistic Interpretability Fellow.** Produced mech-interp analysis techniques **used internally at OpenAI**. [[Scaling Sparse Feature Circuit Finding]](https://www.lesswrong.com/posts/PkeB4TLxgaNnSmddg/scaling-sparse-feature-circuit-finding-to-gemma-9b)
 
-- **Winner — Anthropic × Pear.** **SHIELD:** RL-trained coding agent that finds & fixes vulnerabilities; trained **Llama** to exceed **GPT-4-level** on a public vuln-finding/fixing dataset.
+- **Winner — Anthropic × Pear.** **SHIELD:** RL-trained coding agent that finds & fixes vulnerabilities; trained **Llama** to exceed **GPT-4** on a public vuln-finding/fixing dataset.
 
 - **Winner — Anthropic × AGI House.** **MCP auto-trainer:** Trains any model to use any MCP. scrapes MCP servers, autogenerates tasks; **GRPO + LLM-as-judge** teaches small OSS LLMs to use any MCP.
 
