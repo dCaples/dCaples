@@ -1,25 +1,17 @@
-# Some things I've done
+# AGI/Agents researcher — currently leading research at AGI, Inc.
+
+> **Backstory.** Skipped college after a Google engineer sponsored a **$100k independent research grant**; relocated to SF to do AI research full-time.
+
+## Highlights
 
 - **Lead research, AGI, Inc.** Trained a computer-use agent ranked **#1 on OSWorld & AndroidWorld**; first **superhuman** on both. [[OSWorld benchmark]](https://os-world.github.io/#benchmark) · [[AndroidWorld leaderboard]](https://docs.google.com/spreadsheets/d/1cchzP9dlTZ3WXQTfYNhh3avxoLipqHN75v1Tb86uhHo/edit?gid=0#gid=0)
 
 - **Created & launched [RealEvals.xyz](https://realevals.xyz).** Realistic mini-internet for training & evaluating web agents (benchmark + RL envs).
+
+- **MATS — Mechanistic Interpretability Fellow.** Produced mech-interp analysis techniques **used internally at OpenAI**.
 
 - **Winner — Anthropic × Pear.** **SHIELD:** RL-trained code agent that finds & fixes vulnerabilities; trained **Llama** to exceed **GPT-4-level** on a public vuln-finding/fixing dataset.
 
 - **Winner — Anthropic × AGI House.** **MCP auto-trainer:** scrapes MCP servers, autogenerates tasks; **GRPO + LLM-as-judge** teaches small OSS LLMs to use any MCP.
 
 - **Winner — WeaveHacks 2 ($12k).** **Daydreamer:** developed a novel way to turn **YouTube-scale video data directly into robot policies, solving robotics’ data problem**; video-diffusion **dream → pose → execute** loop; self-trains with VLM feedback. [[Devpost]](https://devpost.com/software/daydreamer-the-gpt-moment-for-robotics)
-<!--
-**dCaples/dCaples** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
