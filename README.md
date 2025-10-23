@@ -1,8 +1,4 @@
-# AGI/Agents researcher — currently leading research at AGI, Inc.
-
 > **Backstory.** Skipped college after a Google engineer sponsored a **$100k independent research grant**; relocated to SF to do AI research full-time.
-
-## Highlights
 
 - **Leading research, AGI, Inc.** Trained a computer-use agent ranked **#1 on OSWorld & AndroidWorld**; first **superhuman** on both. [[OSWorld benchmark]](https://os-world.github.io/#benchmark) · [[AndroidWorld leaderboard]](https://docs.google.com/spreadsheets/d/1cchzP9dlTZ3WXQTfYNhh3avxoLipqHN75v1Tb86uhHo/edit?gid=0#gid=0)
 
